@@ -39,6 +39,14 @@
             "user_info": "some stat"
         }
     ],
+    "user_info": [
+        {
+            "id": 1,
+            "open": 2,
+            "closed": 50,
+            "waiting": 4
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
