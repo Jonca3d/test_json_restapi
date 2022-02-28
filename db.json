@@ -1,13 +1,13 @@
 {
-    "posts": [
+    "stat": [
         {
             "id": 1,
-            "title": "hello"
+            "open": 2,
+            "closed": 100,
+            "waiting": 10
         }
     ],
     "users": [
-        
-        
         {
             "id": 1,
             "user_name": "joni",
