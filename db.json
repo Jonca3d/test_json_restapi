@@ -7,11 +7,7 @@
     ],
     "users": [
         
-        {
-            "id": 6,
-            "user_name": "Anton",
-            "user_info": "some stat"
-        },
+        
         {
             "id": 1,
             "user_name": "joni",
@@ -35,6 +31,11 @@
         {
             "id": 5,
             "user_name": "Eshe Kolya",
+            "user_info": "some stat"
+        },
+        {
+            "id": 6,
+            "user_name": "Anton",
             "user_info": "some stat"
         }
     ],
