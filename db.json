@@ -1,12 +1,12 @@
 {
-    "stat": [
+    "stat": 
         {
             "id": 1,
             "open": 3,
             "closed": 100,
             "waiting": 10
         }
-    ],
+    ,
     "users": [
         {
             "id": 1,
