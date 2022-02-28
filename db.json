@@ -45,6 +45,12 @@
             "open": 2,
             "closed": 50,
             "waiting": 4
+        },
+        {
+            "id": 2,
+            "open": 2,
+            "closed": 50,
+            "waiting": 4
         }
     ],
     "profile": {
