@@ -1,17 +1,18 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+        {
+            "id": 1,
+            "title": "hello"
+        }
     ],
     "users": [
         {
+            "id": 1,
             "user_name": "joni",
-            "user_info": "some stat"            
+            "user_info": "some stat"
         }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
+}
