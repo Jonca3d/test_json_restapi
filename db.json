@@ -8,14 +8,34 @@
     "users": [
         {
             "id": 1,
-            "user_name": "Kolya",
+            "user_name": "joni",
             "user_info": "some stat"
         },
         {
             "id": 2,
-            "user_name": "joni",
+            "user_name": "Kolya",
             "user_info": "some stat"
-        }        
+        },
+        {
+            "id": 3,
+            "user_name": "Sanya",
+            "user_info": "some stat"
+        },
+        {
+            "id": 4,
+            "user_name": "Evgen",
+            "user_info": "some stat"
+        },
+        {
+            "id": 5,
+            "user_name": "Eshe Kolya",
+            "user_info": "some stat"
+        },
+        {
+            "id": 6,
+            "user_name": "Anton",
+            "user_info": "some stat"
+        }
     ],
     "profile": {
         "name": "typicode"
