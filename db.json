@@ -1,57 +1,19 @@
 {
-    "stat": {
-        "id": 1,
-        "open": 2,
-        "closed": 100,
-        "waiting": 10
-    },
-    "users": [
+    "alerts": [
         {
-            "id": 8,
-            "user_name": "Evgeny_HD",
-            "user_info": "some stat"
+            "id": 1,
+            "project": "VELO",
+            "description": "VELO: 0000522021400027"
         },
         {
             "id": 2,
-            "user_name": "Kolya",
-            "user_info": "some stat"
+            "project": "VASH BONUS",
+            "description": "RRN: 0292921123000188 | Balance: 24.49 | Bonus Sum: 23.1 | Diff: 1.39"
         },
         {
             "id": 3,
-            "user_name": "Sanya",
-            "user_info": "some stat"
-        },
-        {
-            "id": 4,
-            "user_name": "Evgen",
-            "user_info": "some stat"
-        },
-        {
-            "id": 5,
-            "user_name": "Eshe Kolya",
-            "user_info": "some stat"
-        },
-        {
-            "id": 6,
-            "user_name": "Anton",
-            "user_info": "some stat"
+            "project": "BAR SLONA",
+            "description": "DUBLICATE CARD 8000030610000002"
         }
-    ],
-    "user_info": [
-        {
-            "id": 1,
-            "open": 2,
-            "closed": 50,
-            "waiting": 4
-        },
-        {
-            "id": 2,
-            "open": 2,
-            "closed": 50,
-            "waiting": 4
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
