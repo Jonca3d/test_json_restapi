@@ -3,17 +3,17 @@
         {
             "id": 1,
             "project": "VELO",
-            "description": "VELO: 0000522021400027"
+            "description": "VELO: 00005220214XXXXX7"
         },
         {
             "id": 2,
-            "project": "VASH BONUS",
-            "description": "RRN: 0292921123000188 | Balance: 24.49 | Bonus Sum: 23.1 | Diff: 1.39"
+            "project": "XXX BONUS",
+            "description": "RRN: XXXXXXXX | Balance: 24.49  Diff: 1.39"
         },
         {
             "id": 3,
-            "project": "BAR SLONA",
-            "description": "DUBLICATE CARD 8000030610000002"
+            "project": "BAR XXXX",
+            "description": "CARD XXXXXXXXX"
         }
     ]
 }
